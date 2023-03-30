@@ -4,11 +4,8 @@ import org.testng.annotations.Test;
 
 public class Demo {
 
-	@Test
-	public void method()
-	{
-		System.out.println("method running");
-
+	public static void main(String[] args) {
+		
+	System.out.println("method running");
 	}
-
 }
